@@ -1,0 +1,29 @@
+{
+  "name": "coloursass",
+  "version": "0.1.0",
+  "homepage": "https://github.com/rwlumino/colours.sass",
+  "authors": [
+    "rwlumino <reubenwakefield@gmail.com>"
+  ],
+  "description": "Sass colour variables for use in any web project",
+  "main": [
+    "colours.sass",
+    "colours-custom.sass"
+],
+  "keywords": [
+    "Sass",
+    "css",
+    "variable",
+    "colour",
+    "color",
+    "palette"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
