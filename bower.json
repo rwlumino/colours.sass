@@ -11,7 +11,7 @@
     ],
     "description": [
         "Sass colour variables for use in any web project, Use as @import in your main sass/scss file",
-    ]
+    ],
     "main": [
         "colours.sass",
         "colours-custom.sass"
